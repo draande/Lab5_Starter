@@ -11,6 +11,8 @@ No, sending a message between users isn’t something I would unit test with bec
 
 Yes, I should unit test this because it’s simple and self-contained. It doesn’t depend on anything outside the function, just the input and output. I'm just checking a small condition, like whether a message is over 80 characters. I can test this easily by passing in different string lengths and making sure the function returns the right result.
 
+The pull request screenshots are in the folder "screenshots."
+
 https://draande.github.io/Lab5_Starter/
 
 https://draande.github.io/Lab5_Starter/explore.html
